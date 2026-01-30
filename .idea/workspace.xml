@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce2d094b-df29-42af-8fa8-b227e904b46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/keywords/UniversityManagement.java" afterDir="false" />
+    <list default="true" id="1cb9e657-1ae6-42e1-bd31-0f62b49f4551" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BridgeLabz_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BridgeLabz_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructorsAndInstances/accessModifiers/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/constructorsAndInstances/accessModifiers/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="38vQekSB9AqcPHUXzSmVTwomnhV" />
+  <component name="ProjectId" id="38xoQZmewxCgdpKifeGzmRsg3CG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BankAccount.executor": "Run",
     "Application.BankApp.executor": "Run",
+    "Application.ComputeCircleArea.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -37,24 +37,29 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "feature/oops",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/1 PeerIsland Bridgelabz/BridgeLabz_Java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="BankApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BankApp" />
+    <configuration name="ComputeCircleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.ComputeCircleArea" />
       <module name="BridgeLabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankApp" />
+        <item itemvalue="Application.ComputeCircleArea" />
       </list>
     </recent_temporary>
   </component>
@@ -68,12 +73,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ce2d094b-df29-42af-8fa8-b227e904b46d" name="Changes" comment="" />
-      <created>1769677667420</created>
+      <changelist id="1cb9e657-1ae6-42e1-bd31-0f62b49f4551" name="Changes" comment="" />
+      <created>1769750573800</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1769677667420</updated>
-      <workItem from="1769677671404" duration="6299000" />
+      <updated>1769750573800</updated>
+      <workItem from="1769750575780" duration="529000" />
     </task>
     <servers />
   </component>

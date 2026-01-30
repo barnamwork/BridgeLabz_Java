@@ -1,4 +1,4 @@
-package accessmodifiers;
+package accessModifiers;
 
 import java.util.Scanner;
 
