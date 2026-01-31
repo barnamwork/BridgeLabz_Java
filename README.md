@@ -24,6 +24,12 @@
 
 - **24-Jan-2025 (Sat):** Solved OOPS Level 2 and learned Java source file structure, Access Modifiers 
 
-- **27-Jan-2025 (Mon):** Studied OOPS concepts like Inheritance, Abstraction, Polymorphism and Encapsulation, data hiding, overloading and overriding
+- **27-Jan-2025 (Tue):** Studied OOPS concepts like Inheritance, Abstraction, Polymorphism and Encapsulation, data hiding, overloading and overriding
 
-- **28-Jan-2025 (Tue):** Solved Java Constructors Problems and learned about concepts of constructors and rebuild my GitHub Repo with right folder sctructure
+- **28-Jan-2025 (Wed):** Solved Java Constructors Problems and learned about concepts of constructors and rebuild my GitHub Repo with right folder sctructure
+
+- **29-Jan-2025 (Thu):** Solved Java Keywords Problem and learned about this, static, final keyword and concepts of instanceof operator
+
+- **30-Jan-2025 (Fri):** Learned and practiced different types of UML diagrams such as class, along with understanding relationships like association, aggregation, and composition, and solved related
+
+- **31-Jan-2025 (Sat):** Learned about different types of inheritance like single,multilevel, hierarchical and hybrid inheritance and completed the inheritance assignment
