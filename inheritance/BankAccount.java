@@ -9,7 +9,7 @@ public class BankAccount {
 
     void displayAccountType(){
         System.out.println("Account no: " + accNo);
-        System.out.println();
+
     }
 
     public static void main() {
