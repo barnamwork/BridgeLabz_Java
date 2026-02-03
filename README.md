@@ -35,3 +35,5 @@
 - **31-Jan-2026 (Sat):** Learned about different types of inheritance like single,multilevel, hierarchical and hybrid inheritance and completed the inheritance assignment
 
 - **02-Feb-2026 (Mon):** Today I learned encapsulation and inheritance, practiced class extension and interfaces, and solved a few assignment questions.
+
+- **03-Feb-2026 (Tue):** Today I have finished my review 2 [oops] and I have learned about LinkedList and types of LinkedList i.e Singly LinkedList, Doubly LinkedList, Circular LinkedList and solved related to the topic
