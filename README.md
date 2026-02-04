@@ -37,3 +37,5 @@
 - **02-Feb-2026 (Mon):** Today I learned encapsulation and inheritance, practiced class extension and interfaces, and solved a few assignment questions.
 
 - **03-Feb-2026 (Tue):** Today I have finished my review 2 [oops] and I have learned about LinkedList and types of LinkedList i.e Singly LinkedList, Doubly LinkedList, Circular LinkedList and solved related to the topic
+
+- **04-Feb-2026 (Tue):** Today I have started working on the OOPS banner app assignment and have completed some part of the assignment
