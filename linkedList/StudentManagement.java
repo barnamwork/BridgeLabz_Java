@@ -122,6 +122,22 @@ class StudentSinglyLinkedList{
     }
 
     public void deleteFromBeginning(){
+        if(head == null){
+            System.out.println("The list is Empty");
+            return;
+        }
+        head = head.next;
+    }
+
+    public void deleteFromEnd(){
+        if(head == null){
+            System.out.println("The list is Empty");
+            return;
+        }
+        if(head.next == null){
+            `head=null;
+            return;
+        }
 
     }
 
