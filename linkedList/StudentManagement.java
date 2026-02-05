@@ -135,7 +135,7 @@ class StudentSinglyLinkedList{
             return;
         }
         if(head.next == null){
-            `head=null;
+            head=null;
             return;
         }
 
