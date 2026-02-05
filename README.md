@@ -38,4 +38,6 @@
 
 - **03-Feb-2026 (Tue):** Today I have finished my review 2 [oops] and I have learned about LinkedList and types of LinkedList i.e Singly LinkedList, Doubly LinkedList, Circular LinkedList and solved related to the topic
 
-- **04-Feb-2026 (Tue):** Today I have started working on the OOPS banner app assignment and have completed some part of the assignment
+- **04-Feb-2026 (Wed):** Today I have started working on the OOPS banner app assignment and have completed some part of the assignment
+
+- **05-Feb-2026 (Thu):** Today I have met the Vice President of PeerIslands and had a great conversation after which I have started learning Stack ,Queue, HashMap and Hashing Function
