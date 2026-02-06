@@ -76,7 +76,7 @@ class StudentSinglyLinkedList{
         while( temp!=null ){
             if( temp.rollNumber == rollNo ){
                 System.out.println("Student found");
-                System.out.println("Name: " + temp.name + ", Age: " + temp.age +m ", Grade: " + temp.grade );
+                System.out.println("Name: " + temp.name + ", Age: " + temp.age + ", Grade: " + temp.grade );
                 return;
             }
             temp=temp.next;
@@ -139,11 +139,44 @@ class StudentSinglyLinkedList{
             return;
         }
 
+        StudentNode temp = head;
+
+        while(temp.next.next != null){
+            temp = temp.next;
+        }
+        temp.next = null;
+    }
+
+    public void deleteFromPosition(int position) {
+
+        if (head == null || position <= 0) {
+            System.out.println("Invalid operation");
+            return;
+        }
+
+        if (position == 1) {
+            head = head.next;
+            return;
+        }
+        StudentNode temp = head;
+
+        for(int i=1; i<position-1 && temp.next!=null ; i++){
+           temp=temp.next;
+        }
+
+        if(temp.next == null){
+            System.out.println("Invalid");
+            return;
+        }
+        temp.next=temp.next.next;
+
     }
 
 }
 
 
 public class StudentManagement {
+    static void main() {
 
+    }
 }
