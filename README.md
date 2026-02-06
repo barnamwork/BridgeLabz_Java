@@ -41,3 +41,5 @@
 - **04-Feb-2026 (Wed):** Today I have started working on the OOPS banner app assignment and have completed some part of the assignment
 
 - **05-Feb-2026 (Thu):** Today I have met the Vice President of PeerIslands and had a great conversation after which I have started learning Stack ,Queue, HashMap and Hashing Function
+
+- **06-Feb-2026 (Fri):** Today I have learned the different types of Sorting algorithms like Bubble Sort, Insertion sort, Merge sort, quick sort, etc and solved questions related to it
