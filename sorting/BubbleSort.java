@@ -1,6 +1,6 @@
 package sorting;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class BubbleSort {
     public static void bubbleSort(int [] arr ){
@@ -26,4 +26,3 @@ public class BubbleSort {
         System.out.println(Arrays.toString(arr));
     }
 }
-
