@@ -47,3 +47,7 @@
 - **07-Feb-2026 (Sat):** Today I have started learning Stack ,Queue, HashMap and Hashing Function
 
 - **09-Feb-2026 (Mon):** Today I revised all the previous DSA Topics for upcoming review
+
+- **10-Feb-2026 (Mon):** Revised all previously studied DSA concepts—Linked Lists, HashMaps, Queues, Stacks, and Sorting algorithms.
+
+- **11-Feb-2026 (Mon):** Learnt topics related to file reading like File reader, Buffered reader , String builder vs String buffer
