@@ -48,6 +48,12 @@
 
 - **09-Feb-2026 (Mon):** Today I revised all the previous DSA Topics for upcoming review
 
-- **10-Feb-2026 (Mon):** Revised all previously studied DSA concepts—Linked Lists, HashMaps, Queues, Stacks, and Sorting algorithms.
+- **10-Feb-2026 (Tue):** Revised all previously studied DSA concepts—Linked Lists, HashMaps, Queues, Stacks, and Sorting algorithms.
 
-- **11-Feb-2026 (Mon):** Learnt topics related to file reading like File reader, Buffered reader , String builder vs String buffer
+- **11-Feb-2026 (Wed):** Learnt topics related to file reading like File reader, Buffered reader , String builder vs String buffer
+
+- **12-Feb-2026 (Thu):** Completed the Run Time analysis of Algorithms Assignment in GCR
+
+- **13-Feb-2026 (Fri):** Started Learning Generics and Solved a few questions on it
+
+- **14-Feb-2026 (Sat):**
