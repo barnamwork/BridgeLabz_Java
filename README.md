@@ -54,6 +54,6 @@
 
 - **12-Feb-2026 (Thu):** Completed the Run Time analysis of Algorithms Assignment in GCR
 
-- **13-Feb-2026 (Fri):** Started Learning Generics and Solved a few questions on it
+- **13-Feb-2026 (Fri):** Started Learning Generics and Solved a few questions related to the topic
 
 - **14-Feb-2026 (Sat):**
